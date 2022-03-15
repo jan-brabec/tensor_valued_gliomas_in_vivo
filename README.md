@@ -1,5 +1,5 @@
 # Separating glioma hyperintensities from white matter by diffusion-weighted imaging with spherical tensor encoding
-Code to the manuscript in prep: *Separating glioma hyperintensities from white matter by tensor-valued diffusion MRI*.
+Code to the accepted manuscript: *Separating glioma hyperintensities from white matter by tensor-valued diffusion MRI*.
 
 Data accessibility: Available is code used to process raw data (nifty files) from the scanner in the folder Process. The summary of the output data is available in the folder data (images themselves not publicly available but are upon reasonable request). The published data is enough to produce SIR distributio but not images.
 

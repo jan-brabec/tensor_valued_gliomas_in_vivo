@@ -1,4 +1,4 @@
-# Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding
+# Article: Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding
 * Code to the article: **Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. Frontiers in Neuroscience, 16.**
 
 * Data accessibility: Available is code used to process raw data (nifti files) in the folder Process. The summary of the output data is available in the folder Data (images themselves not publicly available but are upon reasonable request). The published data is enough to produce SIR distribution but not images.

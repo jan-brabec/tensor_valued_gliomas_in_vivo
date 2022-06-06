@@ -1,5 +1,5 @@
 # Article: Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding
-* Code to the article: **Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. Frontiers in Neuroscience, 16. -[[Link to Article]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/full)-[[Article in PDF]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/pdf)-**
+* Code to the article: **Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. Frontiers in Neuroscience, 16. -[[Article in HTML]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/full)-[[Article in PDF]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/pdf)-**
 
 
 
